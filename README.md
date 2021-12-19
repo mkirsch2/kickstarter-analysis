@@ -46,4 +46,4 @@ Although this dataset provides useful information regarding outcomes based on fu
 
 -----
 ## ADDITIONAL TABLES AND GRAPHS
-
+In addition to the line charts, a box and whisker plot or bar graph would be additional options to visually interpret the data for crowdfunding campaign outcomes.
